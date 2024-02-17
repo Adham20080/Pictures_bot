@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters.command import Command, CommandStart
 
 logging.basicConfig(level=logging.INFO)
-Token = "6497869440:AAFiUdZZMH9QKmWDUEEexTceIohvlWkFH_w"
+Token = ""
 
 bot = Bot(token=Token, parse_mode="HTML")
 
